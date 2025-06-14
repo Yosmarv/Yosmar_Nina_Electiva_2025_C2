@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "970528de-2b10-4900-a89b-af7bd6c28f66")
+	(uuid "bf25562e-2dc5-46a1-a2b8-6e7fe7a2927d")
 	(paper "A4")
 	(lib_symbols)
 	(hierarchical_label "RS485_A"

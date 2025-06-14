@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "17b1315e-9d7c-4fb3-8754-6eae2f5659e7")
+	(uuid "0d6b0532-545a-4941-8db6-dd45da14d787")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -1577,7 +1577,7 @@
 		(uuid "81145614-0109-460c-b154-3e0bbf590161")
 	)
 	(hierarchical_label "RLY1_C"
-		(shape input)
+		(shape output)
 		(at 26.67 59.69 0)
 		(effects
 			(font
@@ -1676,7 +1676,7 @@
 		(uuid "f83f404a-f52a-4d35-af87-0b14b73ff385")
 	)
 	(hierarchical_label "RLY2_C"
-		(shape input)
+		(shape output)
 		(at 66.04 78.74 0)
 		(effects
 			(font
