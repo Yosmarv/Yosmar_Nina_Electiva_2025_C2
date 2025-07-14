@@ -624,6 +624,46 @@
     [
       "0c97fc1b-5dea-4bbd-a681-4ace400501e9",
       "RS485_driver"
+    ],
+    [
+      "88417fbb-a0a5-45c2-87ca-6faaa6da66a2",
+      "OUT_4-20mA"
+    ],
+    [
+      "5b0695e4-d78f-4e3e-8724-d3eb950f912a",
+      "Rele_IN"
+    ],
+    [
+      "cc102159-26e9-4290-a6ad-063568a1d0a4",
+      "NPN_OUT"
+    ],
+    [
+      "c9a7c916-5eae-47c8-9edb-203b51fa0814",
+      "NPN_IN"
+    ],
+    [
+      "f7dc82f5-2729-4d1a-b9b8-25038fee8530",
+      "PNP_OUT"
+    ],
+    [
+      "bc232843-8a14-44cb-ac83-ee13899e1829",
+      "PNP_IN"
+    ],
+    [
+      "1af0d104-6378-4104-8282-5dc9cf06306e",
+      "A_IN_32V"
+    ],
+    [
+      "fae1c8b8-9712-4877-851a-b7d5d9648c1b",
+      "A_IN_10V"
+    ],
+    [
+      "4bb98c27-d9bc-476b-8b92-dbb7ee163d5a",
+      "V_AN_Out"
+    ],
+    [
+      "a2de9f29-1d10-44cf-acd6-187b0a46ed3b",
+      "Ma_OUT"
     ]
   ],
   "text_variables": {}
