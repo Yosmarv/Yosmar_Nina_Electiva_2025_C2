@@ -1882,7 +1882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e285f7d-e036-4205-aa31-7285b3a699cb")
-		(property "Reference" "NPN_VCC03"
+		(property "Reference" "#NPN_VCC03"
 			(at 201.93 67.31 0)
 			(effects
 				(font
@@ -1932,7 +1932,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "NPN_VCC03")
+					(reference "#NPN_VCC03")
 					(unit 1)
 				)
 			)
@@ -2449,7 +2449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfc9a57c-bd15-4d15-acc6-51e939d4e723")
-		(property "Reference" "NPN_VCC02"
+		(property "Reference" "#NPN_VCC02"
 			(at 96.52 67.31 0)
 			(effects
 				(font
@@ -2499,7 +2499,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "NPN_VCC02")
+					(reference "#NPN_VCC02")
 					(unit 1)
 				)
 			)
