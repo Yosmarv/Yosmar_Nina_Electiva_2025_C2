@@ -1069,63 +1069,53 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 128.27) (xy 85.09 128.27)
+			(xy 125.73 129.54) (xy 130.81 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0500e0ba-a0aa-49e6-82df-1414c337cc90")
+		(uuid "0079fc9d-b2ef-45a5-bfb8-922488cac1d3")
 	)
 	(wire
 		(pts
-			(xy 81.28 130.81) (xy 85.09 130.81)
+			(xy 125.73 132.08) (xy 130.81 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "077af5b7-da12-4a55-9aa4-eaafcac4d7f6")
+		(uuid "09ac3021-0df5-4bfc-bfcd-46eaed295e87")
 	)
 	(wire
 		(pts
-			(xy 81.28 120.65) (xy 85.09 120.65)
+			(xy 81.28 115.57) (xy 85.09 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0eafa2ab-618b-462c-a094-11dfefc49f3d")
+		(uuid "0ccfc4e5-1696-4a58-8697-8a46686e6e08")
 	)
 	(wire
 		(pts
-			(xy 81.28 123.19) (xy 85.09 123.19)
+			(xy 82.55 124.46) (xy 81.28 124.46)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "194a379f-950e-41b0-964b-5535f6a07aea")
+		(uuid "15629882-c9ee-498f-bafa-24a06d55fc39")
 	)
 	(wire
 		(pts
-			(xy 125.73 85.09) (xy 130.81 85.09)
+			(xy 125.73 127) (xy 130.81 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2545a5b2-e0c2-47ec-bdd7-a5c70193d960")
-	)
-	(wire
-		(pts
-			(xy 81.28 100.33) (xy 85.09 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2717736c-7155-4e77-a1af-a53201b347dd")
+		(uuid "158308e5-23f9-41a4-b492-5416ebd3b6bf")
 	)
 	(wire
 		(pts
@@ -1139,63 +1129,83 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 110.49) (xy 85.09 110.49)
+			(xy 125.73 124.46) (xy 130.81 124.46)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3703170f-f374-42a0-9f0e-abc6a5a84e41")
+		(uuid "2abf94e4-82de-44a1-8ab8-d567b8f1ad0d")
 	)
 	(wire
 		(pts
-			(xy 81.28 83.82) (xy 85.09 83.82)
+			(xy 125.73 113.03) (xy 130.81 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3db776f7-36c5-442d-9586-9ab39e217626")
+		(uuid "374fa421-d423-45dc-a395-879afa7e2a39")
 	)
 	(wire
 		(pts
-			(xy 125.73 129.54) (xy 130.81 129.54)
+			(xy 81.28 109.22) (xy 85.09 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4182784f-79d9-48d6-a40e-dea630ec888e")
+		(uuid "3db8e21e-e10d-4bf8-b810-0d27f78c6b71")
 	)
 	(wire
 		(pts
-			(xy 81.28 91.44) (xy 85.09 91.44)
+			(xy 82.55 111.76) (xy 81.28 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "466ee1ef-6bbb-47f3-9709-1268863fc523")
+		(uuid "47aec402-2831-4917-ae99-0369fea43b79")
 	)
 	(wire
 		(pts
-			(xy 125.73 137.16) (xy 130.81 137.16)
+			(xy 81.28 96.52) (xy 85.09 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "48d10477-295b-43cb-8c70-a37a7fac3ca1")
+		(uuid "4a5e5153-319a-4e3c-8b51-0cfc8d2bcd24")
 	)
 	(wire
 		(pts
-			(xy 81.28 102.87) (xy 82.55 102.87)
+			(xy 125.73 87.63) (xy 130.81 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "67147e50-1ef4-4ee9-b7f5-4aa4325001cc")
+		(uuid "4b9a47e6-e8c6-4ee4-8cdc-0266f70dbf2f")
+	)
+	(wire
+		(pts
+			(xy 125.73 90.17) (xy 130.81 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef7c124-a8d4-4181-96e7-28b62ab96028")
+	)
+	(wire
+		(pts
+			(xy 125.73 93.98) (xy 130.81 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "613fe8ee-3088-4c57-96c8-0e5ee2146efe")
 	)
 	(wire
 		(pts
@@ -1205,17 +1215,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "6b548ed1-f9df-48a7-af4d-71cfe7f53b13")
-	)
-	(wire
-		(pts
-			(xy 81.28 135.89) (xy 85.09 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75e04a5e-1da8-4e99-8afa-d18ad7852f86")
+		(uuid "73f2e507-b726-4a2e-9ea2-8f0276652b47")
 	)
 	(wire
 		(pts
@@ -1229,23 +1229,43 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 118.11) (xy 81.28 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "813b7d25-a80d-4a9f-8f84-a59566c21c96")
+	)
+	(wire
+		(pts
+			(xy 81.28 105.41) (xy 85.09 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81761b98-b593-40ad-b97e-6c3e4cad4f76")
+	)
+	(wire
+		(pts
 			(xy 125.73 134.62) (xy 130.81 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "937af664-7c86-4faa-a946-f1cfeaa8d06b")
+		(uuid "82bdab34-1511-4c5f-bb3e-4d1a7b36998f")
 	)
 	(wire
 		(pts
-			(xy 125.73 139.7) (xy 130.81 139.7)
+			(xy 125.73 96.52) (xy 130.81 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "97992c88-e19a-4b01-bff8-707a07680f60")
+		(uuid "9427bad9-bff9-4885-a748-bde312e38b41")
 	)
 	(wire
 		(pts
@@ -1259,83 +1279,63 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 138.43) (xy 85.09 138.43)
+			(xy 81.28 99.06) (xy 85.09 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a57c8623-0699-4933-82b6-bb4f44a3666c")
+		(uuid "ac4d27d5-3daf-4ec3-b946-2dc7dfc45bb1")
 	)
 	(wire
 		(pts
-			(xy 81.28 113.03) (xy 82.55 113.03)
+			(xy 129.54 118.11) (xy 130.81 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aaabd04d-b120-424b-8667-478563fce408")
+		(uuid "b51a9111-9b97-4dba-b7b4-b0a8963aedac")
 	)
 	(wire
 		(pts
-			(xy 125.73 93.98) (xy 130.81 93.98)
+			(xy 81.28 121.92) (xy 85.09 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "af4139a2-154c-4d4b-96a0-26af83e496e9")
+		(uuid "b7f1f651-1c7f-4f24-8e3f-ab2de728a40c")
 	)
 	(wire
 		(pts
-			(xy 125.73 142.24) (xy 130.81 142.24)
+			(xy 125.73 121.92) (xy 130.81 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b0602078-0ce8-4e28-b2ed-191d9756a5d5")
+		(uuid "cc662c61-16a9-40b5-8cc2-d35fca6194ac")
 	)
 	(wire
 		(pts
-			(xy 125.73 116.84) (xy 130.81 116.84)
+			(xy 125.73 100.33) (xy 130.81 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b97d2642-0efd-406b-a891-ef6a1c436de8")
+		(uuid "e53cef63-f222-4437-ab77-dce9c8c5219d")
 	)
 	(wire
 		(pts
-			(xy 81.28 86.36) (xy 85.09 86.36)
+			(xy 81.28 102.87) (xy 85.09 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4f966f7-3798-4697-9a4d-8f89728cd5e6")
-	)
-	(wire
-		(pts
-			(xy 125.73 132.08) (xy 130.81 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0f5c0ab-6681-4dd4-9ffd-c18e038726bc")
-	)
-	(wire
-		(pts
-			(xy 125.73 119.38) (xy 130.81 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5b1645c-469f-4b90-9f3f-44a478d3fd09")
+		(uuid "e65733d8-f1d5-4a74-adf1-00f8d7708fac")
 	)
 	(wire
 		(pts
@@ -1349,17 +1349,37 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 93.98) (xy 85.09 93.98)
+			(xy 129.54 102.87) (xy 130.81 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f64f2a1e-3866-48e7-a6dc-6eaffa022b0d")
+		(uuid "f11caae1-2941-4404-b6df-be6bc90e82bf")
+	)
+	(wire
+		(pts
+			(xy 125.73 109.22) (xy 130.81 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f70c72ff-a05d-4f42-9fd6-e50dc50117e0")
+	)
+	(wire
+		(pts
+			(xy 125.73 115.57) (xy 130.81 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f917eab2-361c-4837-b189-f83cd123252d")
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 110.49 0)
+		(at 76.2 115.57 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1368,7 +1388,7 @@
 		(dnp no)
 		(uuid "039fb82c-7a77-4cc6-b5d8-1417232d92c5")
 		(property "Reference" "J4"
-			(at 76.2 106.68 0)
+			(at 72.898 114.808 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1376,7 +1396,7 @@
 			)
 		)
 		(property "Value" "Entrada An 0-10V"
-			(at 65.024 111.76 0)
+			(at 65.024 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1384,7 +1404,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 76.2 110.49 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1393,7 +1413,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 110.49 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1402,7 +1422,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 110.49 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1426,74 +1446,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 82.55 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "11d764dd-9f96-40fb-97d5-545ab4bfbabd")
-		(property "Reference" "#PWR03"
-			(at 82.55 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 82.55 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 82.55 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 82.55 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e8fa1364-563f-442e-b810-43a29e6d73a5")
-		)
-		(instances
-			(project "micro_puerta"
-				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 135.89 119.38 0)
+		(at 135.89 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1501,8 +1455,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23696ea2-e778-4750-9a4e-4ceebbe2b6ed")
-		(property "Reference" "J9"
-			(at 138.43 118.1099 0)
+		(property "Reference" "J8"
+			(at 138.43 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1511,7 +1465,7 @@
 			)
 		)
 		(property "Value" "RS485"
-			(at 138.43 120.6499 0)
+			(at 138.43 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1520,7 +1474,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
-			(at 135.89 119.38 0)
+			(at 135.89 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1529,7 +1483,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 119.38 0)
+			(at 135.89 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1538,7 +1492,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 119.38 0)
+			(at 135.89 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1558,7 +1512,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "J9")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -1566,7 +1520,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 100.33 0)
+		(at 76.2 109.22 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1575,7 +1529,7 @@
 		(dnp no)
 		(uuid "313cf755-3e35-4ab9-836f-9fe18b45e8b5")
 		(property "Reference" "J3"
-			(at 76.2 97.79 0)
+			(at 73.152 108.204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1583,7 +1537,7 @@
 			)
 		)
 		(property "Value" "Entrada An 0-32V"
-			(at 65.024 101.6 0)
+			(at 65.024 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1591,7 +1545,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 76.2 100.33 0)
+			(at 76.2 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1600,7 +1554,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 100.33 0)
+			(at 76.2 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1609,7 +1563,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 100.33 0)
+			(at 76.2 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1634,16 +1588,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 121.92 0)
+		(at 129.54 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3154cb11-d22b-4f27-8520-671f8df6060b")
+		(uuid "74c27f63-5d7c-4226-9c84-c4ec64d535cc")
 		(property "Reference" "#PWR07"
-			(at 130.81 128.27 0)
+			(at 129.54 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1652,7 +1606,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 127 0)
+			(at 129.54 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1660,7 +1614,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 121.92 0)
+			(at 129.54 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1669,7 +1623,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 121.92 0)
+			(at 129.54 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1678,7 +1632,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 121.92 0)
+			(at 129.54 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1687,10 +1641,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2623fca5-1fd5-440e-a3bd-443f1ea84914")
+			(uuid "376c977b-6fac-471a-a5c9-3dad98b51f6b")
 		)
 		(instances
-			(project "micro_puerta"
+			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
 					(reference "#PWR07")
 					(unit 1)
@@ -1699,74 +1653,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 130.81 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "58497e85-6949-4927-973e-189817b0d84a")
-		(property "Reference" "#PWR05"
-			(at 130.81 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 130.81 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e9e13d48-2f51-4a9d-90ff-d2df347a7a54")
-		)
-		(instances
-			(project "micro_puerta"
-				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Screw_Terminal_01x06")
-		(at 135.89 134.62 0)
+		(at 135.89 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1774,7 +1662,7 @@
 		(dnp no)
 		(uuid "74ea9ee6-2a84-4483-98b9-7b1f1588cd7a")
 		(property "Reference" "J5"
-			(at 140.462 132.334 0)
+			(at 140.462 124.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1782,7 +1670,7 @@
 			)
 		)
 		(property "Value" "Relay"
-			(at 140.716 134.366 0)
+			(at 140.716 126.746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1790,7 +1678,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-6_1x06_P5.00mm_Horizontal"
-			(at 135.89 134.62 0)
+			(at 135.89 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1799,7 +1687,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 134.62 0)
+			(at 135.89 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1808,7 +1696,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 134.62 0)
+			(at 135.89 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1845,8 +1733,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 135.89 0)
-		(mirror y)
+		(at 135.89 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1854,24 +1741,23 @@
 		(dnp no)
 		(uuid "755deda1-dd6b-4aac-bdba-45c6a1290d01")
 		(property "Reference" "J13"
-			(at 76.2 133.35 0)
+			(at 140.208 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 76.2 132.08 0)
+		(property "Value" "Salidas An"
+			(at 143.51 108.204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 76.2 135.89 0)
+			(at 135.89 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1880,7 +1766,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 135.89 0)
+			(at 135.89 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1889,7 +1775,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 135.89 0)
+			(at 135.89 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1914,16 +1800,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 109.22 0)
+		(at 82.55 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8c15044b-4f22-4036-951e-413c602d1304")
-		(property "Reference" "#PWR06"
-			(at 130.81 115.57 0)
+		(uuid "7baf2d42-65a5-4186-b334-0bf0e454b760")
+		(property "Reference" "#PWR04"
+			(at 82.55 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1932,7 +1818,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 114.3 0)
+			(at 82.55 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1940,7 +1826,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 109.22 0)
+			(at 82.55 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1949,7 +1835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 109.22 0)
+			(at 82.55 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1958,7 +1844,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 109.22 0)
+			(at 82.55 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1967,12 +1853,78 @@
 			)
 		)
 		(pin "1"
-			(uuid "515a5b07-44c6-44d1-942c-55e85fba77a2")
+			(uuid "979745e3-011b-43f6-865a-201b0ac6123f")
 		)
 		(instances
-			(project "micro_puerta"
+			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "#PWR06")
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 82.55 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "865f36f2-3350-4c24-bc04-2a803506dd72")
+		(property "Reference" "#PWR03"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 82.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8fad8fae-436f-431a-bb94-f67f54de7b49")
+		)
+		(instances
+			(project ""
+				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2046,7 +1998,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 83.82 0)
+		(at 76.2 96.52 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2055,7 +2007,7 @@
 		(dnp no)
 		(uuid "9d71bd0a-fcfc-4048-b408-24af710f6998")
 		(property "Reference" "J1"
-			(at 76.2 81.28 0)
+			(at 72.644 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2063,7 +2015,7 @@
 			)
 		)
 		(property "Value" "Entrada NPN"
-			(at 67.818 84.836 0)
+			(at 67.818 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2071,7 +2023,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 76.2 83.82 0)
+			(at 76.2 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2080,7 +2032,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 83.82 0)
+			(at 76.2 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2089,7 +2041,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 83.82 0)
+			(at 76.2 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2114,7 +2066,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 91.44 0)
+		(at 76.2 102.87 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2123,7 +2075,7 @@
 		(dnp no)
 		(uuid "a2d98b49-7701-49d2-8d6a-acccc5defd2a")
 		(property "Reference" "J2"
-			(at 76.2 89.154 0)
+			(at 72.898 102.108 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2131,7 +2083,7 @@
 			)
 		)
 		(property "Value" "Entradas PNP"
-			(at 67.31 92.964 0)
+			(at 67.31 104.394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2139,7 +2091,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 76.2 91.44 0)
+			(at 76.2 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2148,7 +2100,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 91.44 0)
+			(at 76.2 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2157,7 +2109,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 91.44 0)
+			(at 76.2 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2182,33 +2134,31 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 120.65 0)
-		(mirror y)
+		(at 135.89 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b1ca592c-82e1-4a68-bf47-d91030ba7889")
-		(property "Reference" "J10"
-			(at 76.2 116.84 0)
+		(property "Reference" "J7"
+			(at 139.192 92.964 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 76.2 116.84 0)
+		(property "Value" "NPN OUTPUT"
+			(at 143.764 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 76.2 120.65 0)
+			(at 135.89 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2217,7 +2167,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 120.65 0)
+			(at 135.89 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2226,7 +2176,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 120.65 0)
+			(at 135.89 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2243,73 +2193,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 82.55 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9abd2f9-1897-43f3-b7b0-181b0d7bb6c0")
-		(property "Reference" "#PWR04"
-			(at 82.55 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 82.55 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 82.55 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 82.55 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "920b027d-ce62-43b2-af88-1511ae5b888b")
-		)
-		(instances
-			(project "micro_puerta"
-				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "#PWR04")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -2317,7 +2201,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 76.2 128.27 0)
+		(at 76.2 121.92 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2325,25 +2209,24 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba6caa0b-5abe-49ec-8781-30a2258095d0")
-		(property "Reference" "J12"
-			(at 76.2 125.984 0)
+		(property "Reference" "J5"
+			(at 73.152 121.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 76.2 124.46 0)
+		(property "Value" "Entrada An 5-20mA"
+			(at 64.516 123.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 76.2 128.27 0)
+			(at 76.2 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2352,7 +2235,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 128.27 0)
+			(at 76.2 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2361,7 +2244,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 76.2 128.27 0)
+			(at 76.2 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2378,73 +2261,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 130.81 96.52 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf65d83c-fe0a-4f0c-869c-3578a9611fb1")
-		(property "Reference" "#PWR08"
-			(at 130.81 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 130.81 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "14fc76f6-406a-40b4-8f00-025f53c8a46c")
-		)
-		(instances
-			(project "micro_puerta"
-				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "#PWR08")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -2520,16 +2337,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 135.89 85.09 0)
+		(at 135.89 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cd2fbeb9-ed70-4835-b0a3-71350bddc1bb")
 		(property "Reference" "J6"
-			(at 138.43 85.0899 0)
+			(at 138.684 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,8 +2353,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Entrada An 4-20mA"
-			(at 138.43 87.6299 0)
+		(property "Value" "PNP OUTPUT"
+			(at 138.43 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2547,7 +2363,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 135.89 85.09 0)
+			(at 135.89 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2556,7 +2372,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 85.09 0)
+			(at 135.89 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2565,7 +2381,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 85.09 0)
+			(at 135.89 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2590,7 +2406,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 135.89 93.98 0)
+		(at 135.89 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2598,8 +2414,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d240c5fc-cb5d-4545-bd09-cb2cabf72fe1")
-		(property "Reference" "J7"
-			(at 138.43 93.9799 0)
+		(property "Reference" "J16"
+			(at 138.43 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2608,7 +2424,7 @@
 			)
 		)
 		(property "Value" "Salida An 4-20mA"
-			(at 138.43 96.5199 0)
+			(at 138.43 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2617,7 +2433,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 135.89 93.98 0)
+			(at 135.89 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,7 +2442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 93.98 0)
+			(at 135.89 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,7 +2451,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 93.98 0)
+			(at 135.89 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2652,7 +2468,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "J7")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -2725,35 +2541,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 135.89 106.68 0)
+		(lib_id "power:GND")
+		(at 82.55 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "db83cca0-5949-477f-8236-5cdf77240e25")
-		(property "Reference" "J8"
-			(at 138.43 105.4099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Salida An 0-10V"
-			(at 138.43 107.9499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
-			(at 135.89 106.68 0)
+		(uuid "f4cc15fd-c1b3-4d4f-9d32-2a4a5b2b3d76")
+		(property "Reference" "#PWR05"
+			(at 82.55 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2761,8 +2559,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 135.89 106.68 0)
+		(property "Value" "GND"
+			(at 82.55 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.55 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2770,8 +2576,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 106.68 0)
+		(property "Datasheet" ""
+			(at 82.55 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2779,19 +2585,88 @@
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "12671380-e1bf-4c3f-8009-d5ad8a815627")
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 82.55 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "da53a2de-4691-437b-885d-8755a4ca26b4")
-		)
-		(pin "2"
-			(uuid "a66ab7b9-f568-481e-96e0-5ebf78891474")
+			(uuid "919b9e6e-f427-4fe5-bb1d-c7d46632242a")
 		)
 		(instances
 			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
-					(reference "J8")
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 129.54 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "faaa5025-0b8e-4a80-ba36-12117e64972d")
+		(property "Reference" "#PWR06"
+			(at 129.54 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 129.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6412d33d-f889-4d14-a3ba-3a59d156cf58")
+		)
+		(instances
+			(project ""
+				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -2799,7 +2674,7 @@
 	)
 	(sheet
 		(at 85.09 80.01)
-		(size 40.64 67.31)
+		(size 40.64 62.23)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2823,7 +2698,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at 85.09 147.9046 0)
+			(at 85.09 142.8246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2833,7 +2708,7 @@
 			)
 		)
 		(pin "A_IN_10V" input
-			(at 85.09 110.49 180)
+			(at 85.09 115.57 180)
 			(uuid "d150b6ae-509e-41eb-b47b-6b7ec65eec12")
 			(effects
 				(font
@@ -2843,7 +2718,7 @@
 			)
 		)
 		(pin "A_IN_32V" input
-			(at 85.09 100.33 180)
+			(at 85.09 109.22 180)
 			(uuid "5ea19138-50a7-4d13-a726-7c502f30d00d")
 			(effects
 				(font
@@ -2852,28 +2727,18 @@
 				(justify left)
 			)
 		)
-		(pin "A_IN_420mA" output
-			(at 125.73 85.09 0)
+		(pin "A_IN_420mA" input
+			(at 85.09 121.92 180)
 			(uuid "716c2b42-b016-472e-9c23-9bfab0f0ba09")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
-			)
-		)
-		(pin "A_OUT_10V" output
-			(at 125.73 106.68 0)
-			(uuid "23284925-89be-4a47-b204-46c4a9f28d0b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(pin "A_OUT_420mA" output
-			(at 125.73 93.98 0)
+			(at 125.73 100.33 0)
 			(uuid "37a72c79-8dee-4a6c-b511-7263e655c07a")
 			(effects
 				(font
@@ -2882,28 +2747,8 @@
 				(justify right)
 			)
 		)
-		(pin "D_IN_1" input
-			(at 85.09 120.65 180)
-			(uuid "16853511-a2c5-4555-b5e5-90046941c172")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "D_IN_2" input
-			(at 85.09 123.19 180)
-			(uuid "6cd4627d-292d-4281-ab25-5d9896a0840b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "NPN_IN_1" input
-			(at 85.09 83.82 180)
+			(at 85.09 96.52 180)
 			(uuid "8ab09114-3f67-40cf-a988-02b8943f22b7")
 			(effects
 				(font
@@ -2913,7 +2758,7 @@
 			)
 		)
 		(pin "NPN_IN_2" input
-			(at 85.09 86.36 180)
+			(at 85.09 99.06 180)
 			(uuid "32338b79-5cb3-45e0-804e-7fea7f0aba07")
 			(effects
 				(font
@@ -2923,7 +2768,7 @@
 			)
 		)
 		(pin "PNP_IN_1" input
-			(at 85.09 91.44 180)
+			(at 85.09 102.87 180)
 			(uuid "d9b56802-4163-40d4-8b9f-213530c42ef0")
 			(effects
 				(font
@@ -2933,7 +2778,7 @@
 			)
 		)
 		(pin "PNP_IN_2" input
-			(at 85.09 93.98 180)
+			(at 85.09 105.41 180)
 			(uuid "d8280d47-aec3-4049-8126-1b379fc10d2d")
 			(effects
 				(font
@@ -2942,8 +2787,8 @@
 				(justify left)
 			)
 		)
-		(pin "RLY1_C" input
-			(at 125.73 129.54 0)
+		(pin "RLY1_C" output
+			(at 125.73 121.92 0)
 			(uuid "9d80da1c-ec66-4b61-89e6-3664283a325b")
 			(effects
 				(font
@@ -2952,8 +2797,8 @@
 				(justify right)
 			)
 		)
-		(pin "RLY1_NC" input
-			(at 125.73 132.08 0)
+		(pin "RLY1_NC" output
+			(at 125.73 124.46 0)
 			(uuid "15f20c7f-d97f-4e80-acd0-d7165d6925e6")
 			(effects
 				(font
@@ -2962,8 +2807,8 @@
 				(justify right)
 			)
 		)
-		(pin "RLY1_NO" input
-			(at 125.73 134.62 0)
+		(pin "RLY1_NO" output
+			(at 125.73 127 0)
 			(uuid "06fb0800-0d85-477f-9cee-0f09abe028be")
 			(effects
 				(font
@@ -2972,8 +2817,8 @@
 				(justify right)
 			)
 		)
-		(pin "RLY2_C" input
-			(at 125.73 137.16 0)
+		(pin "RLY2_C" output
+			(at 125.73 129.54 0)
 			(uuid "005bf1cd-a777-4894-8eea-965595711968")
 			(effects
 				(font
@@ -2982,8 +2827,8 @@
 				(justify right)
 			)
 		)
-		(pin "RLY2_NC" input
-			(at 125.73 139.7 0)
+		(pin "RLY2_NC" output
+			(at 125.73 132.08 0)
 			(uuid "4a1841d6-462f-4a92-8030-73affbb0b59d")
 			(effects
 				(font
@@ -2992,8 +2837,8 @@
 				(justify right)
 			)
 		)
-		(pin "RLY2_NO" input
-			(at 125.73 142.24 0)
+		(pin "RLY2_NO" output
+			(at 125.73 134.62 0)
 			(uuid "60112220-bb68-4e12-95c9-53c607d6672c")
 			(effects
 				(font
@@ -3002,8 +2847,8 @@
 				(justify right)
 			)
 		)
-		(pin "RS485_A" input
-			(at 125.73 116.84 0)
+		(pin "RS485_A" bidirectional
+			(at 125.73 113.03 0)
 			(uuid "22930e57-2ade-43e1-8d0b-fdab11784bf3")
 			(effects
 				(font
@@ -3012,8 +2857,8 @@
 				(justify right)
 			)
 		)
-		(pin "RS485_B" input
-			(at 125.73 119.38 0)
+		(pin "RS485_B" bidirectional
+			(at 125.73 115.57 0)
 			(uuid "4442d074-ff1b-4087-b0ca-7a53808b398c")
 			(effects
 				(font
@@ -3022,44 +2867,64 @@
 				(justify right)
 			)
 		)
-		(pin "NPN_OUT_1" input
-			(at 85.09 128.27 180)
+		(pin "NPN_OUT_1" output
+			(at 125.73 93.98 0)
 			(uuid "6b8959ae-569a-4d5f-af01-d8d9cffcf0c8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(pin "NPN_OUT_2" input
-			(at 85.09 130.81 180)
+		(pin "NPN_OUT_2" output
+			(at 125.73 96.52 0)
 			(uuid "3a85ed8f-3cce-495f-9141-660b23a15c99")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(pin "PNP_OUT_1" input
-			(at 85.09 135.89 180)
+		(pin "PNP_OUT_1" output
+			(at 125.73 87.63 0)
 			(uuid "3288b5e9-6d18-4aea-a53d-611fde39aa19")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(pin "PNP_OUT_2" input
-			(at 85.09 138.43 180)
+		(pin "PNP_OUT_2" output
+			(at 125.73 90.17 0)
 			(uuid "8e40ec85-c9e7-4613-a19a-8a3aaf8ba979")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+			)
+		)
+		(pin "A_An_OUT" output
+			(at 125.73 106.68 0)
+			(uuid "dbcc7d24-6a93-4f83-b8e9-7d3542b08d61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "V_An_OUT" output
+			(at 125.73 109.22 0)
+			(uuid "68f0225a-f0a9-4c49-9fb5-516b25b79e43")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
