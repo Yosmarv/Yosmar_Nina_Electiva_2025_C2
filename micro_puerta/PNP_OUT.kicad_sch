@@ -1739,7 +1739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0964656b-2d42-4d34-aac6-d17f89932fd4")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR034"
 			(at 214.63 102.87 0)
 			(effects
 				(font
@@ -1789,7 +1789,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "#PWR032")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -1805,7 +1805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0af959ed-3714-4cdf-a028-ed6ea98d2743")
-		(property "Reference" "U8"
+		(property "Reference" "U7"
 			(at 87.63 62.23 0)
 			(effects
 				(font
@@ -1866,7 +1866,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "U8")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -1882,7 +1882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e285f7d-e036-4205-aa31-7285b3a699cb")
-		(property "Reference" "#NPN_VCC03"
+		(property "Reference" "#NPN_VCC02"
 			(at 201.93 67.31 0)
 			(effects
 				(font
@@ -1932,7 +1932,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "#NPN_VCC03")
+					(reference "#NPN_VCC02")
 					(unit 1)
 				)
 			)
@@ -2024,7 +2024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "388b0196-4155-462d-9fbc-2453bff79601")
-		(property "Reference" "R16"
+		(property "Reference" "R13"
 			(at 101.6 88.8999 0)
 			(effects
 				(font
@@ -2078,7 +2078,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "R16")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -2094,7 +2094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6796c34f-148d-455a-8f0c-f37d998da5bb")
-		(property "Reference" "R15"
+		(property "Reference" "R12"
 			(at 72.39 62.23 90)
 			(effects
 				(font
@@ -2146,7 +2146,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "R15")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -2162,7 +2162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "945ae50b-2bbf-4acf-ad55-f67c453aa0fd")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR033"
 			(at 109.22 102.87 0)
 			(effects
 				(font
@@ -2212,7 +2212,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "#PWR031")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -2228,7 +2228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d75b259-c9bc-4ea4-b6e8-53d207548fb2")
-		(property "Reference" "R17"
+		(property "Reference" "R14"
 			(at 177.8 62.23 90)
 			(effects
 				(font
@@ -2280,7 +2280,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "R17")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -2372,7 +2372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccb32463-2703-44b0-8edf-1e71092945d8")
-		(property "Reference" "U9"
+		(property "Reference" "U8"
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -2433,7 +2433,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "U9")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -2449,7 +2449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfc9a57c-bd15-4d15-acc6-51e939d4e723")
-		(property "Reference" "#NPN_VCC02"
+		(property "Reference" "#NPN_VCC01"
 			(at 96.52 67.31 0)
 			(effects
 				(font
@@ -2499,7 +2499,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "#NPN_VCC02")
+					(reference "#NPN_VCC01")
 					(unit 1)
 				)
 			)
@@ -2515,7 +2515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7f8cc21-63f5-470f-a89f-3413d89475c9")
-		(property "Reference" "R18"
+		(property "Reference" "R15"
 			(at 207.01 88.8999 0)
 			(effects
 				(font
@@ -2569,7 +2569,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/f7dc82f5-2729-4d1a-b9b8-25038fee8530"
-					(reference "R18")
+					(reference "R15")
 					(unit 1)
 				)
 			)

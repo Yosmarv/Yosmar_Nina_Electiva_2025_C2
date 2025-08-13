@@ -1073,7 +1073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ea775a8-12e1-4c77-8e76-a8ab7ff6511c")
-		(property "Reference" "U14"
+		(property "Reference" "U4"
 			(at 97.79 96.52 0)
 			(effects
 				(font
@@ -1089,7 +1089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Proyecto_componente:LK1802"
 			(at 97.79 106.68 0)
 			(effects
 				(font
@@ -1137,7 +1137,7 @@
 		(instances
 			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/5b0695e4-d78f-4e3e-8724-d3eb950f912a"
-					(reference "U14")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -1153,7 +1153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "492a5460-019b-4e94-b6a9-b85253a296d2")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR021"
 			(at 85.09 113.03 0)
 			(effects
 				(font
@@ -1203,7 +1203,7 @@
 		(instances
 			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/5b0695e4-d78f-4e3e-8724-d3eb950f912a"
-					(reference "#PWR055")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -1219,7 +1219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0b8dc6b-cf68-4aa7-829e-ed7b764c9b13")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR023"
 			(at 123.19 52.07 0)
 			(effects
 				(font
@@ -1269,7 +1269,7 @@
 		(instances
 			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/5b0695e4-d78f-4e3e-8724-d3eb950f912a"
-					(reference "#PWR017")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -1445,7 +1445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbf56a95-8d48-494f-af61-62e7f6079862")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR022"
 			(at 110.49 107.95 0)
 			(effects
 				(font
@@ -1495,7 +1495,7 @@
 		(instances
 			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/5b0695e4-d78f-4e3e-8724-d3eb950f912a"
-					(reference "#PWR054")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -1511,7 +1511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dee959ac-5115-4a64-ab2d-d1fe4e7329be")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR024"
 			(at 181.61 52.07 0)
 			(effects
 				(font
@@ -1561,7 +1561,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/5b0695e4-d78f-4e3e-8724-d3eb950f912a"
-					(reference "#PWR018")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)

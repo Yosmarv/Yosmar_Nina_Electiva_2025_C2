@@ -974,7 +974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38250e11-c6ad-4d5f-9d24-7c21efb0f6b3")
-		(property "Reference" "U12"
+		(property "Reference" "U11"
 			(at 144.78 77.47 0)
 			(effects
 				(font
@@ -1044,7 +1044,7 @@
 		(instances
 			(project ""
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/4bb98c27-d9bc-476b-8b92-dbb7ee163d5a"
-					(reference "U12")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -1127,7 +1127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ea35009-2868-4f04-9889-ac54ce868076")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR043"
 			(at 132.08 97.79 0)
 			(effects
 				(font
@@ -1178,7 +1178,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/4bb98c27-d9bc-476b-8b92-dbb7ee163d5a"
-					(reference "#PWR028")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -1260,7 +1260,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70958a0c-14cd-498d-96c7-6784d8276f5e")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 173.99 96.5199 90)
 			(effects
 				(font
@@ -1323,7 +1323,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/4bb98c27-d9bc-476b-8b92-dbb7ee163d5a"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -1339,7 +1339,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85e97cac-d899-4204-a54f-040ae87055d8")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR045"
 			(at 175.26 86.36 0)
 			(effects
 				(font
@@ -1390,7 +1390,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/4bb98c27-d9bc-476b-8b92-dbb7ee163d5a"
-					(reference "#PWR026")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -1406,7 +1406,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96a518ff-5201-4a5a-bd54-57e5bcc0538c")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR044"
 			(at 161.29 110.49 0)
 			(effects
 				(font
@@ -1456,7 +1456,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/4bb98c27-d9bc-476b-8b92-dbb7ee163d5a"
-					(reference "#PWR023")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)

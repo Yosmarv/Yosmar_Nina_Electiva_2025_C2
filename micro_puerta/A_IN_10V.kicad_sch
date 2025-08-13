@@ -530,7 +530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11dd59e1-cd26-4a5d-908e-a77e54ed73e0")
-		(property "Reference" "R11"
+		(property "Reference" "R22"
 			(at 132.08 86.3599 0)
 			(effects
 				(font
@@ -548,7 +548,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 127.762 87.63 90)
 			(effects
 				(font
@@ -584,7 +584,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/fae1c8b8-9712-4877-851a-b7d5d9648c1b"
-					(reference "R11")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -600,7 +600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "297af353-35d5-4b21-a39a-1d2d3d217b93")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 143.51 99.0599 0)
 			(effects
 				(font
@@ -618,7 +618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 140.6652 104.14 0)
 			(effects
 				(font
@@ -654,7 +654,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/fae1c8b8-9712-4877-851a-b7d5d9648c1b"
-					(reference "C8")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -670,7 +670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44435885-b602-4849-a6b0-1c7975c207f1")
-		(property "Reference" "R12"
+		(property "Reference" "R23"
 			(at 132.08 99.0599 0)
 			(effects
 				(font
@@ -688,7 +688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 127.762 100.33 90)
 			(effects
 				(font
@@ -724,7 +724,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/fae1c8b8-9712-4877-851a-b7d5d9648c1b"
-					(reference "R12")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -740,7 +740,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d6994cd-cd67-4376-8c0c-a54184f22118")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR042"
 			(at 129.54 115.57 0)
 			(effects
 				(font
@@ -790,7 +790,7 @@
 		(instances
 			(project "micro_puerta"
 				(path "/ab2f26d1-d065-4d9e-8f9a-0ccfc45c4b5b/f046d5e0-b81e-417d-b1cc-4f018da2dc07/fae1c8b8-9712-4877-851a-b7d5d9648c1b"
-					(reference "#PWR025")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)

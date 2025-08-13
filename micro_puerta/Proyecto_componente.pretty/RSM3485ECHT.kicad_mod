@@ -105,15 +105,15 @@
 		(uuid "034184cd-3c47-4bc0-81b1-db2248d448c3")
 	)
 	(fp_rect
-		(start -2.3 -3.5)
-		(end 17.7 13.55)
+		(start -2.5 -3.5)
+		(end 17.5 13.5)
 		(stroke
-			(width 0.1)
-			(type solid)
+			(width 0.05)
+			(type default)
 		)
 		(fill no)
-		(layer "Margin")
-		(uuid "ae5e3c6b-de3a-4edd-8f63-170fb0dfac5f")
+		(layer "F.CrtYd")
+		(uuid "34f8cd98-0d34-45ff-acb1-20bad84728b1")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 7.5 14.5 0)
